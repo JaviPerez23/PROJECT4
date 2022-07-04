@@ -6,7 +6,7 @@
 <h3 align="center">LA FELICIDAD NO ES EL OBJETIVO, ES EL CAMINO :)</h3>
 
 ---
-<a href="url"><img src="https://github.com/OrianAmpuero/PROJECT4/blob/main/IMAGES/ironhack-logo-negro1.jpg" align="left" height="200" width="100" ></a>
+<a href="url"><img src="https://github.com/OrianAmpuero/PROJECT4/blob/main/IMAGES/ironhack-logo-negro1.jpg" align="left" height="200" width="75" ></a>
 
 Cuarto proyecto como Data Analyst en [Ironhack](https://www.ironhack.com/) :snake:.
 
@@ -15,7 +15,15 @@ Cuarto proyecto como Data Analyst en [Ironhack](https://www.ironhack.com/) :snak
       3. Dashboard para visualización.
       4. Storytelling.
 
-## Proyecto :smile:
+
+## CONTENIDO 📝
+- [Descripción del Proyecto](#Proyecto)
+- [Estructura](#Estructura)
+- [Visualización](#Visualización)
+- [Fuente de los Datos](#Fuente_de_Datos)
+
+
+## Proyecto :smile: <a name = "Proyecto"></a>
 
 *Los puntajes y clasificaciones de felicidad utilizan datos de la Encuesta mundial de Gallup. Las columnas que siguen al puntaje de felicidad estiman la medida en que cada uno de los seis factores (producción económica, apoyo social, esperanza de vida, libertad, ausencia de corrupción y generosidad) contribuyen a que las evaluaciones de vida sean más altas en cada país que en Dystopia, un país hipotético que tiene valores iguales a los promedios nacionales más bajos del mundo para cada uno de los seis factores. No tienen impacto en el puntaje total informado para cada país, pero explican por qué algunos países tienen una clasificación más alta que otros.*
 
@@ -32,7 +40,7 @@ Cuarto proyecto como Data Analyst en [Ironhack](https://www.ironhack.com/) :snak
 <b> Herramientas para este proyecto🛠: Workbench, Jupyter Notebook, Python, Pandas, Tableau.</b>
 
 
-## Estructura :file_folder:
+## Estructura :file_folder: <a name = "Estructura"></a>
     
 ```
 Proyecto 
@@ -48,12 +56,13 @@ Proyecto
 ```
 
 
-## Visualización :dart:
+## Visualización :dart: <a name = "Visualizaión"></a>
 
 
 
-## Fuente de los Datos :computer:
+## Fuente de los Datos :computer: <a name = "Fuente_de_Datos"></a>
 
+[Dataset Kaggle](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021?resource=download)
 
 
 
