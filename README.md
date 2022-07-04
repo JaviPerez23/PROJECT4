@@ -3,7 +3,7 @@
  <img width=400px height=150px src="https://github.com/OrianAmpuero/PROJECT4/blob/main/IMAGES/happy%20project.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">LA FELICIDAD NO ES EL OBJETIVO, ES EL CAMINO :)</h3>
+<h3ñ´' align="center">LA FELICIDAD NO ES EL OBJETIVO, ES EL CAMINO :)</h3>
 
 ---
 <a href="url"><img src="https://github.com/OrianAmpuero/PROJECT4/blob/main/IMAGES/ironhack-logo-negro1.jpg" align="left" height="150" width="100" ></a>
@@ -59,6 +59,8 @@ Proyecto
 
 
 ## Visualización :dart: <a name = "Visualización"></a>
+
+![image](https://github.com/OrianAmpuero/PROJECT4/blob/main/IMAGES/Captura%20de%20pantalla%202022-07-05%20000338.jpg)
 
 
 
