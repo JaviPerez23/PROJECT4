@@ -6,7 +6,7 @@
 <h3 align="center">LA FELICIDAD NO ES EL OBJETIVO, ES EL CAMINO :)</h3>
 
 ---
-<a href="url"><img src="https://github.com/OrianAmpuero/PROJECT4/blob/main/IMAGES/ironhack-logo-negro1.jpg" align="left" height="200" width="75" ></a>
+<a href="url"><img src="https://github.com/OrianAmpuero/PROJECT4/blob/main/IMAGES/ironhack-logo-negro1.jpg" align="left" height="50" width="25" ></a>
 
 Cuarto proyecto como Data Analyst en [Ironhack](https://www.ironhack.com/) :snake:.
 
@@ -15,6 +15,7 @@ Cuarto proyecto como Data Analyst en [Ironhack](https://www.ironhack.com/) :snak
       3. Dashboard para visualización.
       4. Storytelling.
 
+---
 
 ## CONTENIDO 📝
 - [Descripción del Proyecto](#Proyecto)
@@ -56,7 +57,7 @@ Proyecto
 ```
 
 
-## Visualización :dart: <a name = "Visualizaión"></a>
+## Visualización :dart: <a name = "Visualización"></a>
 
 
 
