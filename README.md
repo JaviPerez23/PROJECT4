@@ -6,7 +6,7 @@
 <h3 align="center">LA FELICIDAD NO ES EL OBJETIVO, ES EL CAMINO :)</h3>
 
 ---
-![Image](https://github.com/OrianAmpuero/PROJECT4/blob/main/IMAGES/felicidad.jpg)
+![Image](https://github.com/OrianAmpuero/PROJECT4/blob/main/IMAGES/ironhack-madrid.png)
 
 Cuarto proyecto como Data Analyst en [Ironhack](https://www.ironhack.com/) :snake:.
 
@@ -15,7 +15,9 @@ Cuarto proyecto como Data Analyst en [Ironhack](https://www.ironhack.com/) :snak
       3. Dashboard para visualización.
       4. Storytelling.
 
-*Los puntajes y clasificaciones de felicidad utilizan datos de la Encuesta mundial de Gallup. Las columnas que siguen al puntaje de felicidad estiman la medida en que cada uno de los seis factores (producción económica, apoyo social, esperanza de vida, libertad, ausencia de corrupción y generosidad) contribuyen a que las evaluaciones de vida sean más altas en cada país que en Dystopia, un país hipotético que tiene valores iguales a los promedios nacionales más bajos del mundo para cada uno de los seis factores. No tienen impacto en el puntaje total informado para cada país, pero explican por qué algunos países tienen una clasificación más alta que otros.
+## Proyecto :smile:
+
+*Los puntajes y clasificaciones de felicidad utilizan datos de la Encuesta mundial de Gallup. Las columnas que siguen al puntaje de felicidad estiman la medida en que cada uno de los seis factores (producción económica, apoyo social, esperanza de vida, libertad, ausencia de corrupción y generosidad) contribuyen a que las evaluaciones de vida sean más altas en cada país que en Dystopia, un país hipotético que tiene valores iguales a los promedios nacionales más bajos del mundo para cada uno de los seis factores. No tienen impacto en el puntaje total informado para cada país, pero explican por qué algunos países tienen una clasificación más alta que otros.*
 
 * **GDP per capita:** Medida de la producción económica de un país que representa su número de habitantes.
 * **Health life expectancy:** Número promedio de años que un recién nacido puede esperar vivir en "plena salud", en otras palabras, sin el impedimento de enfermedades o lesiones incapacitantes.
@@ -24,7 +26,7 @@ Cuarto proyecto como Data Analyst en [Ironhack](https://www.ironhack.com/) :snak
 * **Generosity:** Es el residuo de la regresión del promedio nacional de respuesta a la pregunta "¿Ha donado dinero a una organización benéfica en el último mes?" sobre el PIB per cápita.
 * **Corruption Perception:** La medida es el promedio nacional de las respuestas de la encuesta a dos preguntas: "¿Está la corrupción generalizada en todo el gobierno o no" y "¿Está la corrupción generalizada dentro de las empresas o no?"
 
-Aunque sabemos de qué se tratan estas características, no sabemos la unidad de medida utilizada en los datos.
+*Aunque sabemos de qué se tratan estas características, no sabemos la unidad de medida utilizada en los datos.*
 
 
 <b> Herramientas para este proyecto🛠: Workbench, Jupyter Notebook, Python, Pandas, Tableau.</b>
@@ -34,19 +36,23 @@ Aunque sabemos de qué se tratan estas características, no sabemos la unidad de
     
 ```
 Proyecto 
-|__ DATA/                                   # contiene datos limpios de jupyter notebook  
+|__ DATA/                         # contiene datos limpios de jupyter notebook  
 |
-|__ IMAGES/                                 # contiene imagénes referentes al proyecto y gráficos de los datos   
+|__ IMAGES/                       # contiene imagénes referentes al proyecto y gráficos de los datos   
 |
 |
-|__ .gitignore                              # archivo gitignore     
+|__ .gitignore                    # archivo gitignore     
 |
-|__ README.md                               # información del proyecto
+|__ README.md                     # información del proyecto
 
 ```
 
 
 ## Visualización :dart:
+
+
+
+## Fuente de los Datos :computer:
 
 
 
