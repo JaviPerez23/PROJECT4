@@ -1,24 +1,21 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=400px height=200px src="https://github.com/OrianAmpuero/PROJECT4/blob/main/IMAGES/happy%20project.png" alt="Project logo"></a>
+ <img width=400px height=150px src="https://github.com/OrianAmpuero/PROJECT4/blob/main/IMAGES/happy%20project.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">LA FELICIDAD NO ES EL OBJETIVO, ES EL CAMINO :)</h3>
 
 ---
+![Image](https://github.com/OrianAmpuero/PROJECT4/blob/main/IMAGES/felicidad.jpg)
 
-<p align="center"> Cuarto proyecto como Data Analyst en [Ironhack](https://www.ironhack.com/) :snake:. 
-</p>
-
+Cuarto proyecto como Data Analyst en [Ironhack](https://www.ironhack.com/) :snake:.
 
       1. ETL (Extracción, Transformación y Limpieza).
       2. EDA (Análisis Exploratorio de los Datos).
       3. Dashboard para visualización.
       4. Storytelling.
 
-
-
-Los puntajes y clasificaciones de felicidad utilizan datos de la Encuesta mundial de Gallup. Las columnas que siguen al puntaje de felicidad estiman la medida en que cada uno de los seis factores (producción económica, apoyo social, esperanza de vida, libertad, ausencia de corrupción y generosidad) contribuyen a que las evaluaciones de vida sean más altas en cada país que en Dystopia, un país hipotético que tiene valores iguales a los promedios nacionales más bajos del mundo para cada uno de los seis factores. No tienen impacto en el puntaje total informado para cada país, pero explican por qué algunos países tienen una clasificación más alta que otros.
+*Los puntajes y clasificaciones de felicidad utilizan datos de la Encuesta mundial de Gallup. Las columnas que siguen al puntaje de felicidad estiman la medida en que cada uno de los seis factores (producción económica, apoyo social, esperanza de vida, libertad, ausencia de corrupción y generosidad) contribuyen a que las evaluaciones de vida sean más altas en cada país que en Dystopia, un país hipotético que tiene valores iguales a los promedios nacionales más bajos del mundo para cada uno de los seis factores. No tienen impacto en el puntaje total informado para cada país, pero explican por qué algunos países tienen una clasificación más alta que otros.
 
 * **GDP per capita:** Medida de la producción económica de un país que representa su número de habitantes.
 * **Health life expectancy:** Número promedio de años que un recién nacido puede esperar vivir en "plena salud", en otras palabras, sin el impedimento de enfermedades o lesiones incapacitantes.
@@ -30,8 +27,10 @@ Los puntajes y clasificaciones de felicidad utilizan datos de la Encuesta mundia
 Aunque sabemos de qué se tratan estas características, no sabemos la unidad de medida utilizada en los datos.
 
 
+<b> Herramientas para este proyecto🛠: Workbench, Jupyter Notebook, Python, Pandas, Tableau.</b>
 
-## Estructura
+
+## Estructura :file_folder:
     
 ```
 Proyecto 
@@ -40,6 +39,24 @@ Proyecto
 |__ IMAGES/                                 # contiene imagénes referentes al proyecto y gráficos de los datos   
 |
 |
-|__ .gitignore                              # archivo gitignore      
+|__ .gitignore                              # archivo gitignore     
+|
+|__ README.md                               # información del proyecto
 
 ```
+
+
+## Visualización :dart:
+
+
+
+
+
+
+
+
+
+
+
+
+
