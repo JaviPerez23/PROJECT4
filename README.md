@@ -6,7 +6,7 @@
 <h3 align="center">LA FELICIDAD NO ES EL OBJETIVO, ES EL CAMINO :)</h3>
 
 ---
-![Image](https://github.com/OrianAmpuero/PROJECT4/blob/main/IMAGES/ironhack-madrid.png)
+![Image](https://github.com/OrianAmpuero/PROJECT4/blob/main/IMAGES/ironhack-madrid.png =200x100)
 
 Cuarto proyecto como Data Analyst en [Ironhack](https://www.ironhack.com/) :snake:.
 
