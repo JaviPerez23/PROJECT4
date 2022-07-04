@@ -6,7 +6,7 @@
 <h3 align="center">LA FELICIDAD NO ES EL OBJETIVO, ES EL CAMINO :)</h3>
 
 ---
-<a href="url"><img src="https://github.com/OrianAmpuero/PROJECT4/blob/main/IMAGES/ironhack-logo-negro1.jpg" align="left" height="100" width="50" ></a>
+<a href="url"><img src="https://github.com/OrianAmpuero/PROJECT4/blob/main/IMAGES/ironhack-logo-negro1.jpg" align="left" height="150" width="100" ></a>
 
 Cuarto proyecto como Data Analyst en [Ironhack](https://www.ironhack.com/) :snake:.
 
@@ -38,7 +38,8 @@ Cuarto proyecto como Data Analyst en [Ironhack](https://www.ironhack.com/) :snak
 *Aunque sabemos de qué se tratan estas características, no sabemos la unidad de medida utilizada en los datos.*
 
 
-<b> Herramientas para este proyecto🛠: Workbench, Jupyter Notebook, Python, Pandas, Tableau.</b>
+
+<b> HERRAMIENTAS PARA ESTE PROYECTO🛠: Workbench, Jupyter Notebook, Python, Pandas, Tableau.</b>
 
 
 ## Estructura :file_folder: <a name = "Estructura"></a>
