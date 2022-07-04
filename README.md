@@ -5,7 +5,19 @@
 
 <h3 align="center">HAPPY PROJECT</h3>
 
-<div align="center">
+---
+
+<p align="center">  La felicidad no es el objetivo, es el camino.
+    <br> 
+</p>
+
+Cuarto proyecto como Data Analyst en [Ironhack](https://www.ironhack.com/):snake:. 
+
+      1. ETL (Extracción, Transformación y Limpieza).
+      2. EDA (Análisis Exploratorio de los Datos).
+      3. Dashboard para visualización.
+      4. Storytelling.
+
 
 
 Los puntajes y clasificaciones de felicidad utilizan datos de la Encuesta mundial de Gallup. Las columnas que siguen al puntaje de felicidad estiman la medida en que cada uno de los seis factores (producción económica, apoyo social, esperanza de vida, libertad, ausencia de corrupción y generosidad) contribuyen a que las evaluaciones de vida sean más altas en cada país que en Dystopia, un país hipotético que tiene valores iguales a los promedios nacionales más bajos del mundo para cada uno de los seis factores. No tienen impacto en el puntaje total informado para cada país, pero explican por qué algunos países tienen una clasificación más alta que otros.
@@ -22,6 +34,7 @@ Aunque sabemos de qué se tratan estas características, no sabemos la unidad de
 
 
 ## Estructura
+    
 ```
 Proyecto 
 |__ DATA/                                   # contiene datos limpios de jupyter notebook  
