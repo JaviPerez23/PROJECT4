@@ -1,15 +1,17 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://github.com/OrianAmpuero/PROJECT4/blob/main/IMAGES/happy%20project.png" alt="Project logo"></a>
+ <img width=500px height=150px src="https://github.com/OrianAmpuero/PROJECT4/blob/main/IMAGES/happy%20project.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">LA FELICIDAD NO ES EL OBJETIVO, ES EL CAMINO :)</h3>
 
 ---
 
-<p align="center">  Cuarto proyecto como Data Analyst en [Ironhack](https://www.ironhack.com/):snake:. 
+<p align="center">Cuarto proyecto como Data Analyst en [Ironhack](https://www.ironhack.com/) :snake:. 
+    
     <br> 
 </p>
+
 
       1. ETL (Extracción, Transformación y Limpieza).
       2. EDA (Análisis Exploratorio de los Datos).
